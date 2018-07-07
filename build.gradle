@@ -1,3 +1,5 @@
+
+//My custom code
 allprojects {
     apply plugin: 'java-library'
     sourceCompatibility = 1.7
